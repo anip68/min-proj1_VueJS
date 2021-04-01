@@ -1,0 +1,53 @@
+.foto-perfil {
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    border-radius: 100%;
+  }
+
+  .rodape-prin {
+    background-color: rgb(0, 0, 0);
+    clear: both;
+    height: 60px;
+    color: rgb(250, 255, 250);
+    font-size: 15px;
+    font-family: "arial", sans-serif;
+  }
+
+  .rodape-prin span {
+
+    float: left;
+    width: 45%;
+    line-height: 60px;
+    /* Mesma altura do rodapé */
+
+  }
+
+  .icones-sociais ul {
+
+    display: inline-block;
+    height: inherit;
+    width: 75%;
+    margin: 0;
+    line-height: 60px;
+
+  }
+
+  .icones-sociais li {
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 7px;
+    width: 40px;
+    height: inherit;
+  }
+
+  p {
+    font-family: 'Helvetica Neue'Arial, Helvetica, sans-serif;
+    color: black;
+
+
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
